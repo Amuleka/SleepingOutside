@@ -16,7 +16,7 @@ We also used some npm packages like Vite, Prettier, EsLint, etc
 # Useful Websites
 
 - [Front End Development](https://www.coursera.org/articles/front-end-developer)
-- [APIS](https://learn.microsoft.com/en-us/dotnet/csharp/](https://aws.amazon.com/what-is/api/#:~:text=API%20stands%20for%20Application%20Programming,other%20using%20requests%20and%20responses.)
+- [APIS](https://aws.amazon.com/what-is/api/#:~:text=API%20stands%20for%20Application%20Programming,other%20using%20requests%20and%20responses.)
 
 # Future Work
 
