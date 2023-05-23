@@ -1,20 +1,25 @@
-# sleepoutside [Go to the site](https://stirring-baklava-a82375.netlify.app/)
+# Overview
 
-## Description
+We developed a captivating website for tents and outdoor items. Leveraging Vite support, we bundled assets, integrated APIs, and utilized JSON files for seamless functionality. The result is a high-performing web application that seamlessly integrates data, delivering an exceptional user experience
 
-In this project, we will build tents and an outdoor items website. It scaffolds a simple web app with Vite support to bundle up our assets.
+[Software Demo Video](https://www.youtube.com/watch?v=dGqy5TSDb40)
 
-## Prerequisites
+[Actual Team Repository](https://github.com/bykarol/wdd330-Team4)
 
-- We will need to have Node installed and some npm packages.
+[Karol GitHub Profile](https://github.com/bykarol)
 
-## Setup
+# Development Environment
 
-- `npm install` installs the npm Software Registry.
-- `npm run start` starts up a local server and updates on any JS or CSS/SCSS changes.
+We used VSCode as our code editor, HTML, CSS, and JavsScript with a couple of APIs
+We also used some npm packages like Vite, Prettier, EsLint, etc
 
-## Other commands
+# Useful Websites
 
-- `npm run build` We will use npm build to build the final files when you are ready to turn in.
-- `npm run lint` We will use npm run to run ESLint against your code to find errors.
-- `npm run format` We will use run format to run Prettier to format your code automatically.
+- [Front End Development](https://www.coursera.org/articles/front-end-developer)
+- [APIS]([https://learn.microsoft.com/en-us/dotnet/csharp/](https://aws.amazon.com/what-is/api/#:~:text=API%20stands%20for%20Application%20Programming,other%20using%20requests%20and%20responses.))
+
+# Future Work
+
+- We will connect a MongoDB database to store all different purchases information
+- We will create a login and sign-up form to let users create their accounts and log in to start purchasing the merchandise
+
